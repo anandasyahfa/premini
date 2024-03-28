@@ -43,10 +43,10 @@
 
         <ul class="submenu ">
             <li
-        class="sidebar-item  has-sub">
-        <a href="#" class='sidebar-link'>
-            <i class="bi bi-collection-fill"></i>
-            <span>DIMSUM</span>
+            class="sidebar-item  has-sub">
+            <a href="#" class='sidebar-link'>
+                <i class="bi bi-collection-fill"></i>
+                <span>DIMSUM</span>
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
@@ -113,7 +113,6 @@
             </li>--}}
         </ul>
     </li>
-
 
 
     <li
