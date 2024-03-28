@@ -32,14 +32,41 @@
         </a>
     </li>
 
+
     <li
         class="sidebar-item  has-sub">
         <a href="#" class='sidebar-link'>
             <i class="bi bi-stack"></i>
-            <span>NOODLE</span>
+            <span>MENU</span>
+        </a>
+
+
+        <ul class="submenu ">
+            <li
+        class="sidebar-item  has-sub">
+        <a href="#" class='sidebar-link'>
+            <i class="bi bi-collection-fill"></i>
+            <span>DIMSUM</span>
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
+                <a href="extra-component-avatar.html">Siomay</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="extra-component-sweetalert.html">Udang Rambutan</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="extra-component-toastify.html">Udang Keju</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="extra-component-rating.html">Lumpia Udang</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="extra-component-divider.html">Pangsit Goreng</a>
+            </li>
+        </ul>
+    </li>
+            {{-- <li class="submenu-item ">
                 <a href="component-alert.html">Mie Suit</a>
             </li>
             <li class="submenu-item ">
@@ -47,7 +74,7 @@
             </li>
             <li class="submenu-item ">
                 <a href="component-breadcrumb.html">Mie Gacoan</a>
-            </li>
+            </li> --}}
             {{-- <li class="submenu-item ">
                 <a href="component-button.html">Button</a>
             </li>
@@ -87,30 +114,7 @@
         </ul>
     </li>
 
-    <li
-        class="sidebar-item  has-sub">
-        <a href="#" class='sidebar-link'>
-            <i class="bi bi-collection-fill"></i>
-            <span>DIMSUM</span>
-        </a>
-        <ul class="submenu ">
-            <li class="submenu-item ">
-                <a href="extra-component-avatar.html">Siomay</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-sweetalert.html">Udang Rambutan</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-toastify.html">Udang Keju</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-rating.html">Lumpia Udang</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-divider.html">Pangsit Goreng</a>
-            </li>
-        </ul>
-    </li>
+
 
     <li
         class="sidebar-item  has-sub">
