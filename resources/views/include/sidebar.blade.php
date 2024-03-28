@@ -40,15 +40,15 @@
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
-                <a href="component-alert.html">Alert</a>
+                <a href="component-alert.html">Mie Suit</a>
             </li>
             <li class="submenu-item ">
-                <a href="component-badge.html">Badge</a>
+                <a href="component-badge.html">Mie Hompimpa</a>
             </li>
             <li class="submenu-item ">
-                <a href="component-breadcrumb.html">Breadcrumb</a>
+                <a href="component-breadcrumb.html">Mie Gacoan</a>
             </li>
-            <li class="submenu-item ">
+            {{-- <li class="submenu-item ">
                 <a href="component-button.html">Button</a>
             </li>
             <li class="submenu-item ">
@@ -83,7 +83,7 @@
             </li>
             <li class="submenu-item ">
                 <a href="component-tooltip.html">Tooltip</a>
-            </li>
+            </li>--}}
         </ul>
     </li>
 
@@ -95,19 +95,19 @@
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
-                <a href="extra-component-avatar.html">Avatar</a>
+                <a href="extra-component-avatar.html">Siomay</a>
             </li>
             <li class="submenu-item ">
-                <a href="extra-component-sweetalert.html">Sweet Alert</a>
+                <a href="extra-component-sweetalert.html">Udang Rambutan</a>
             </li>
             <li class="submenu-item ">
-                <a href="extra-component-toastify.html">Toastify</a>
+                <a href="extra-component-toastify.html">Udang Keju</a>
             </li>
             <li class="submenu-item ">
-                <a href="extra-component-rating.html">Rating</a>
+                <a href="extra-component-rating.html">Lumpia Udang</a>
             </li>
             <li class="submenu-item ">
-                <a href="extra-component-divider.html">Divider</a>
+                <a href="extra-component-divider.html">Pangsit Goreng</a>
             </li>
         </ul>
     </li>
@@ -120,19 +120,43 @@
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
-                <a href="layout-default.html">Default Layout</a>
+                <a href="layout-default.html">Es Gobak Sodor</a>
             </li>
             <li class="submenu-item ">
-                <a href="layout-vertical-1-column.html">1 Column</a>
+                <a href="layout-vertical-1-column.html">Es Teklek</a>
             </li>
             <li class="submenu-item ">
-                <a href="layout-vertical-navbar.html">Vertical Navbar</a>
+                <a href="layout-vertical-navbar.html">Es Sluku Bathok</a>
             </li>
             <li class="submenu-item ">
-                <a href="layout-rtl.html">RTL Layout</a>
+                <a href="layout-rtl.html">Es Petak Umpet</a>
             </li>
             <li class="submenu-item ">
-                <a href="layout-horizontal.html">Horizontal Menu</a>
+                <a href="layout-horizontal.html">Lemon Tea</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Milo</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Orange</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Es Tea</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Tea Tarik</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Vannila Latte</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Thai Tea</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Thai Green Tea</a>
+            </li>
+            <li class="submenu-item ">
+                <a href="layout-horizontal.html">Es Coklat</a>
             </li>
         </ul>
     </li>
