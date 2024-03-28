@@ -36,7 +36,7 @@
         class="sidebar-item  has-sub">
         <a href="#" class='sidebar-link'>
             <i class="bi bi-stack"></i>
-            <span>Components</span>
+            <span>NOODLE</span>
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
@@ -91,7 +91,7 @@
         class="sidebar-item  has-sub">
         <a href="#" class='sidebar-link'>
             <i class="bi bi-collection-fill"></i>
-            <span>Extra Components</span>
+            <span>DIMSUM</span>
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
@@ -116,7 +116,7 @@
         class="sidebar-item  has-sub">
         <a href="#" class='sidebar-link'>
             <i class="bi bi-grid-1x2-fill"></i>
-            <span>Layouts</span>
+            <span>BEVERAGE</span>
         </a>
         <ul class="submenu ">
             <li class="submenu-item ">
