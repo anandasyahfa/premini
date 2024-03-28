@@ -12,4 +12,4 @@ Route::get('/', function () {
 Route::get('/dashboard', [dashboardController::class, 'index']);
 
 Route::get('/login', [LoginController::class, 'index'])->name('login');
-Route::get('/register', [registerController::class, 'index'])->name('register');
+Route::get('/register', [registerController::class, 'index'])->name('register')
