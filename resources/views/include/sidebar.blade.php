@@ -43,16 +43,16 @@
 
         <ul class="submenu ">
             <li
-        class="sidebar-item  has-sub">
-        <a href="#" class='sidebar-link'>
+        class="">
+        <a href="{{ route('index')}}" class='sidebar-link'>
             <i class="bi bi-collection-fill"></i>
             <span>MAKANAN</span>
         </a>
-        <ul class="submenu ">
+        {{-- <ul class="submenu ">
             <li class="submenu-item ">
-                <a href="extra-component-avatar.html">Siomay</a>
-            </li>
-            <li class="submenu-item ">
+                <a href=""{{ route('index')}}">menu</a>
+            </li> --}}
+            {{-- <li class="submenu-item ">
                 <a href="extra-component-sweetalert.html">Udang Rambutan</a>
             </li>
             <li class="submenu-item ">
@@ -63,8 +63,8 @@
             </li>
             <li class="submenu-item ">
                 <a href="extra-component-divider.html">Pangsit Goreng</a>
-            </li>
-        </ul>
+            </li> --}}
+        {{-- </ul> --}}
     </li>
             {{-- <li class="submenu-item ">
                 <a href="component-alert.html">Mie Suit</a>
@@ -441,6 +441,9 @@
     </li>
 
 </ul>
+
+    @yield('sidebar')
+
 </div>
 </div>
 </div>
