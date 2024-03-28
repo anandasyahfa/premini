@@ -23,7 +23,7 @@
             </header>
 
 <div class="page-heading">
-    <h3>Dashboard</h3>
+    <h3>Gacoan</h3>
 </div>
 
 @yield('konten')
