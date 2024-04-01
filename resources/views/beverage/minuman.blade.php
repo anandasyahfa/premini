@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/esgobaksodor.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Es Gobak Sodor</h5>
@@ -38,7 +38,7 @@
 
                 <div class="col-md-4">
                     <div class="card" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/esteklek.png') }}" width="180" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Es Teklek</h5>
@@ -92,7 +92,7 @@
 
                 <div class="col-md-3">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/lemontea.png') }}" width="175" height="260" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Lemon Tea</h5>
@@ -105,7 +105,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/milo.png') }}" width="190" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Milo</h5>
@@ -144,7 +144,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/tehtarik.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Tea Tarik</h5>
@@ -183,7 +183,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/greentea.png') }}" width="180" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Thai Green Tea</h5>
