@@ -20,12 +20,12 @@
     <body>
 
         <section class="content">
-            <div class="container-fluid">
+            {{-- <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-3 col-6">
                         <div class="small-box">
-                            <div class="inner">
-                                <table>
+                            <div class="inner"> --}}
+                                {{-- <table> --}}
                                     {{-- <tr>
                                         <td></td>
                                         <td></td>
@@ -44,31 +44,43 @@
                                             class="fas fa-arrow-circle-right "></i></a></center>
                                     </tr> --}}
 
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="card border-primary mb-3" style="width: 18rem;">
-                                <img src="{{ asset('image/cobamie.png') }}" width="210" height="230" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                  <h5 class="card-title">Gacoan</h5>
-                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
-                                </div>
-                              </div>
-                        </div>
-                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="card" style="width: 21rem;">
+                                                <img src="{{ asset('image/cobamie.png') }}" width="170" height="250" class="card-img-top" alt="...">
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Gacoan</h5>
+                                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                                    <a href="#" class="btn btn-primary">More Info</a>
+                                                </div>
+                                            </div>
+                                        </div>
 
-                        <div class="col-md-3">
-                            <div class="card" style="width: 18rem;">
-                                <img src="{{ asset('image/gacoan.png') }}" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                  <h5 class="card-title">Gacoan</h5>
-                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
-                                </div>
-                              </div>
-                        </div>
 
-                    </div>
+                                        <div class="col-md-4">
+                                            <div class="card" style="width: 21rem;">
+                                                <img src="{{ asset('image/cobamie.png') }}" width="170" height="250" class="card-img-top" alt="...">
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Gacoan</h5>
+                                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                                    <a href="#" class="btn btn-primary">More Info</a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                            <div class="col-md-3">
+                                                <div class="card border-primary mb-3" style="width: 21rem;">
+                                                    <img src="{{ asset('image/cobamie.png') }}" width="170" height="250" class="card-img-top" alt="...">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">Gacoan</h5>
+                                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                                        <a href="#" class="btn btn-primary">More Info</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                    </div>
+
 
                         </div>
                     </div>
