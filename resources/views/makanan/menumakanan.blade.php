@@ -26,7 +26,7 @@
                         <div class="small-box">
                             <div class="inner">
                                 <table>
-                                    <tr>
+                                    {{-- <tr>
                                         <td></td>
                                         <td></td>
                                         <center>
@@ -42,9 +42,33 @@
                                     <tr>
                                         <center><a href="#" class="small-box-footer text-blue">More info<i
                                             class="fas fa-arrow-circle-right "></i></a></center>
-                                    </tr>
-                                </table>
-                            </div>
+                                    </tr> --}}
+
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card border-primary mb-3" style="width: 18rem;">
+                                <img src="{{ asset('image/cobamie.png') }}" width="210" height="230" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Gacoan</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+
+                        <div class="col-md-3">
+                            <div class="card" style="width: 18rem;">
+                                <img src="{{ asset('image/gacoan.png') }}" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Gacoan</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                              </div>
+                        </div>
+
+                    </div>
 
                         </div>
                     </div>
