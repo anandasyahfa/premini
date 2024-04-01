@@ -30,7 +30,7 @@
                             <h5 class="card-title">Es Gobak Sodor</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -44,20 +44,20 @@
                             <h5 class="card-title">Es Teklek</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/esbatokkelapa.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Es Sluku Bathok</h5>
+                            <h5 class="card-title">Es Suku Bathok</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -65,13 +65,13 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/petakumpet.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Es Petak Umpet</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -79,26 +79,26 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/lemontea.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Mineral</h5>
+                            <h5 class="card-title">Lemontea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/lemontea.png') }}" width="175" height="260" class="card-img-top"
+                        <img src="{{ asset('image/aqua.png') }}" width="175" height="260" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Lemon Tea</h5>
+                            <h5 class="card-title">Mineral</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                             <h5 class="card-title">Milo</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -124,20 +124,20 @@
                             <h5 class="card-title">Orange</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/esteh.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Es Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                             <h5 class="card-title">Tea Tarik</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -163,20 +163,20 @@
                             <h5 class="card-title">Vanilla Latte</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/thaitea.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Thai Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -189,20 +189,20 @@
                             <h5 class="card-title">Thai Green Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/escoklat.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Es Coklat</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>

@@ -31,7 +31,7 @@
                             <h5 class="card-title">Mie Suit</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                             <h5 class="card-title">Mie Hompimpa</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                             <h5 class="card-title">Mie Gacoan</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Selengkapnya</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya -></a>
                         </div>
                     </div>
                 </div>
