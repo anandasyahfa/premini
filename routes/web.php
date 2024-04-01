@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BeverageController;
 use App\Http\Controllers\dashboardController;
 use App\Http\Controllers\Dimsum;
 use App\Http\Controllers\LoginController;
@@ -19,3 +20,5 @@ Route::get('/register', [registerController::class, 'index'])->name('register');
 Route::get('/makanan', [MakananController::class, 'index'])->name('index');
 
 Route::get('/dimsum', [Dimsum::class, 'dimsum'])->name('dimsum');
+
+Route::get('/beverage', [BeverageController::class, 'beverage'])->name('beverage');

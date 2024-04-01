@@ -53,121 +53,23 @@
             <i class="bi bi-collection-fill"></i>
             <span>DIMSUM</span>
         </a>
-        {{-- <ul class="submenu ">
-            <li class="submenu-item ">
-                <a href=""{{ route('index')}}">menu</a>
-            </li> --}}
-            {{-- <li class="submenu-item ">
-                <a href="extra-component-sweetalert.html">Udang Rambutan</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-toastify.html">Udang Keju</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-rating.html">Lumpia Udang</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="extra-component-divider.html">Pangsit Goreng</a>
-            </li> --}}
-        {{-- </ul> --}}
     </li>
-            {{-- <li class="submenu-item ">
-                <a href="component-alert.html">Mie Suit</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-badge.html">Mie Hompimpa</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-breadcrumb.html">Mie Gacoan</a>
-            </li> --}}
-            {{-- <li class="submenu-item ">
-                <a href="component-button.html">Button</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-card.html">Card</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-carousel.html">Carousel</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-collapse.html">Collapse</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-dropdown.html">Dropdown</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-list-group.html">List Group</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-modal.html">Modal</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-navs.html">Navs</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-pagination.html">Pagination</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-progress.html">Progress</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-spinner.html">Spinner</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="component-tooltip.html">Tooltip</a>
-            </li>--}}
+
         </ul>
     </li>
 
 
     <li
-        class="sidebar-item  has-sub">
-        <a href="#" class='sidebar-link'>
-            <i class="bi bi-grid-1x2-fill"></i>
+        class="sidebar-item active ">
+        <a href="{{ route('beverage')}}" class='sidebar-link'>
+            <i class="bi bi-grid-fill"></i>
             <span>BEVERAGE</span>
         </a>
-        <ul class="submenu ">
-            <li class="submenu-item ">
-                <a href="layout-default.html">Es Gobak Sodor</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-vertical-1-column.html">Es Teklek</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-vertical-navbar.html">Es Sluku Bathok</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-rtl.html">Es Petak Umpet</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Lemon Tea</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Milo</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Orange</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Es Tea</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Tea Tarik</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Vannila Latte</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Thai Tea</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Thai Green Tea</a>
-            </li>
-            <li class="submenu-item ">
-                <a href="layout-horizontal.html">Es Coklat</a>
-            </li>
-        </ul>
     </li>
+
+
+
+
 
     <li class="sidebar-title">Forms &amp; Tables</li>
 
