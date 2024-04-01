@@ -24,9 +24,6 @@
 
 <div class="page-heading">
 
-    <a class="navbar-brand" href="#">
-        <img src="{{ asset('image/LogoMieGacoan.png') }}" alt="GACOAN" width="200" height="200">
-      </a>
 </div>
 
 @yield('konten')
