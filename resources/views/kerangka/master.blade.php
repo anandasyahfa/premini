@@ -23,7 +23,10 @@
             </header>
 
 <div class="page-heading">
-    <h3>Gacoan</h3>
+
+    <a class="navbar-brand" href="#">
+        <img src="{{ asset('image/LogoMieGacoan.png') }}" alt="GACOAN" width="200" height="200">
+      </a>
 </div>
 
 @yield('konten')

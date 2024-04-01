@@ -1,5 +1,6 @@
 {{-- sidebar --}}
 
+
 <div id="sidebar" class="active">
     <div class="sidebar-wrapper active">
 <div class="sidebar-header position-relative">
@@ -20,9 +21,10 @@
     </div>
 </div>
 </div>
+
+
 <div class="sidebar-menu">
 <ul class="menu">
-    <li class="sidebar-title">Menu</li>
 
     <li
         class="sidebar-item active ">
@@ -32,6 +34,7 @@
         </a>
     </li>
 
+    <li class="sidebar-title">Daftar Menu</li>
 
     <li
         class="sidebar-item  has-sub">
@@ -46,7 +49,7 @@
         class="">
         <a href="{{ route('index')}}" class='sidebar-link'>
             <i class="bi bi-collection-fill"></i>
-            <span>MAKANAN</span>
+            <span>NOODLES</span>
         </a>
 
         <a href="{{ route('dimsum')}}" class='sidebar-link'>
@@ -68,10 +71,8 @@
     </li>
 
 
-
-
-
     <li class="sidebar-title">Forms &amp; Tables</li>
+
 
     <li
         class="sidebar-item  has-sub">

@@ -30,7 +30,7 @@
                             <h5 class="card-title">Es Gobak Sodor</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                             <h5 class="card-title">Es Teklek</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                             <h5 class="card-title">Es Sluku Bathok</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                             <h5 class="card-title">Es Petak Umpet</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                             <h5 class="card-title">Mineral</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                             <h5 class="card-title">Lemon Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                             <h5 class="card-title">Milo</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                             <h5 class="card-title">Orange</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                             <h5 class="card-title">Es Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                             <h5 class="card-title">Tea Tarik</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                             <h5 class="card-title">Vanilla Latte</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
                             <h5 class="card-title">Thai Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                             <h5 class="card-title">Thai Green Tea</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                             <h5 class="card-title">Es Coklat</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">More Info</a>
+                            <a href="#" class="btn btn-primary">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
