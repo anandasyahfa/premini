@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/miesuit.png') }}" width="150" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Mie Suit</h5>
@@ -39,7 +39,7 @@
 
                 <div class="col-md-4">
                     <div class="card" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/hompimpa.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Mie Hompimpa</h5>
@@ -52,7 +52,7 @@
 
                 <div class="col-md-3">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/gacoan.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Mie Gacoan</h5>
