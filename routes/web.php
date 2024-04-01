@@ -10,7 +10,7 @@ use App\Http\Controllers\MakananController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('kerangka.master');
+    return view('user.index');
 });
 
 Route::get('/home', [HomeController::class, 'home'])->name('home');

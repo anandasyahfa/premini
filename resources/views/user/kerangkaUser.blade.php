@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -28,10 +28,10 @@
 
 @yield('konten')
 {{-- @include('include.footer') --}}
-        </div>
+        {{-- </div>
     </div>
 @include('include.scripct')
 
 </body>
 
-</html>
+</html>  --}}

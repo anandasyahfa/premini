@@ -7,9 +7,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Scholar - Online School HTML5 Template</title>
+    <title>Scholar - Online School HTML5 </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="
+    user/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="user/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="user/assets/css/templatemo-scholar.css">
+    <link rel="stylesheet" href="user/assets/css/owl.css">
+    <link rel="stylesheet" href="user/assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
+
+Mo 586 Scholar
+
+https://mo.com/tm-586-scholar
+
+-->
   </head>
 
 <body>
@@ -35,7 +52,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <h1>Scholar</h1>
+                        <h1>&copyG.Gacoan</h1>
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Serach Start ***** -->
@@ -49,10 +66,10 @@
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                       <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                      <li class="scroll-to-section"><a href="#services">Services</a></li>
-                      <li class="scroll-to-section"><a href="#courses">Courses</a></li>
-                      <li class="scroll-to-section"><a href="#team">Team</a></li>
-                      <li class="scroll-to-section"><a href="#events">Events</a></li>
+                      <li class="scroll-to-section"><a href="#services">Noodels</a></li>
+                      <li class="scroll-to-section"><a href="#courses">Dimsum</a></li>
+                      <li class="scroll-to-section"><a href="#team">Drink</a></li>
+                      <!-- <li class="scroll-to-section"><a href="#events">Events</a></li> -->
                       <li class="scroll-to-section"><a href="#contact">Register Now!</a></li>
                   </ul>
                     <a class='menu-trigger'>
@@ -75,7 +92,7 @@
               <div class="header-text">
                 <span class="category">Our Courses</span>
                 <h2>With Scholar Teachers, Everything Is Easier</h2>
-                <p>Scholar is free CSS template designed by TemplateMo for online educational related websites. This layout is based on the famous Bootstrap v5.3.0 framework.</p>
+                <p>Scholar is free CSS  designed by Mo for online educational related websites. This layout is based on the famous Bootstrap v5.3.0 framework.</p>
                 <div class="buttons">
                   <div class="main-button">
                     <a href="#">Request Demo</a>
@@ -90,7 +107,7 @@
               <div class="header-text">
                 <span class="category">Best Result</span>
                 <h2>Get the best result out of your effort</h2>
-                <p>You are allowed to use this template for any educational or commercial purpose. You are not allowed to re-distribute the template ZIP file on any other website.</p>
+                <p>You are allowed to use this  for any educational or commercial purpose. You are not allowed to re-distribute the  ZIP file on any other website.</p>
                 <div class="buttons">
                   <div class="main-button">
                     <a href="#">Request Demo</a>
@@ -128,11 +145,12 @@
         <div class="col-lg-4 col-md-6">
           <div class="service-item">
             <div class="icon">
-              <img src="assets/images/service-01.png" alt="online degrees">
+              <img src="
+              user/assets/images/service-01.png" alt="online degrees">
             </div>
             <div class="main-content">
               <h4>Online Degrees</h4>
-              <p>Whenever you need free templates in HTML CSS, you just remember TemplateMo website.</p>
+              <p>Whenever you need free s in HTML CSS, you just remember Mo website.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -142,11 +160,12 @@
         <div class="col-lg-4 col-md-6">
           <div class="service-item">
             <div class="icon">
-              <img src="assets/images/service-02.png" alt="short courses">
+              <img src="
+              user/assets/images/service-02.png" alt="short courses">
             </div>
             <div class="main-content">
               <h4>Short Courses</h4>
-              <p>You can browse free templates based on different tags such as digital marketing, etc.</p>
+              <p>You can browse free s based on different tags such as digital marketing, etc.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -156,11 +175,12 @@
         <div class="col-lg-4 col-md-6">
           <div class="service-item">
             <div class="icon">
-              <img src="assets/images/service-03.png" alt="web experts">
+              <img src="
+              user/assets/images/service-03.png" alt="web experts">
             </div>
             <div class="main-content">
               <h4>Web Experts</h4>
-              <p>You can start learning HTML CSS by modifying free templates from our website too.</p>
+              <p>You can start learning HTML CSS by modifying free s from our website too.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -208,7 +228,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There are more than one hundred responsive HTML templates to choose from <strong>Template</strong>Mo website. You can browse by different tags or categories.
+                  There are more than one hundred responsive HTML s to choose from <strong></strong>Mo website. You can browse by different tags or categories.
                 </div>
               </div>
             </div>
@@ -220,7 +240,7 @@
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  You can also search on Google with specific keywords such as <code>templatemo business templates, templatemo gallery templates, admin dashboard templatemo, 3-column templatemo, etc.</code>
+                  You can also search on Google with specific keywords such as <code>mo business s, mo gallery s, admin dashboard mo, 3-column mo, etc.</code>
                 </div>
               </div>
             </div>
@@ -268,7 +288,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 design">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-01.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-01.jpg" alt=""></a>
               <span class="category">Webdesign</span>
               <span class="price"><h6><em>$</em>160</h6></span>
             </div>
@@ -281,7 +302,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6  development">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-02.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-02.jpg" alt=""></a>
               <span class="category">Development</span>
               <span class="price"><h6><em>$</em>340</h6></span>
             </div>
@@ -294,7 +316,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 design wordpress">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-03.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-03.jpg" alt=""></a>
               <span class="category">Wordpress</span>
               <span class="price"><h6><em>$</em>640</h6></span>
             </div>
@@ -307,7 +330,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 development">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-04.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-04.jpg" alt=""></a>
               <span class="category">Development</span>
               <span class="price"><h6><em>$</em>450</h6></span>
             </div>
@@ -320,7 +344,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 wordpress development">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-05.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-05.jpg" alt=""></a>
               <span class="category">Wordpress</span>
               <span class="price"><h6><em>$</em>320</h6></span>
             </div>
@@ -333,7 +358,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 wordpress design">
           <div class="events_item">
             <div class="thumb">
-              <a href="#"><img src="assets/images/course-06.jpg" alt=""></a>
+              <a href="#"><img src="
+                user/assets/images/course-06.jpg" alt=""></a>
               <span class="category">Webdesign</span>
               <span class="price"><h6><em>$</em>240</h6></span>
             </div>
@@ -390,7 +416,8 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-member">
             <div class="main-content">
-              <img src="assets/images/member-01.jpg" alt="">
+              <img src="
+              user/assets/images/member-01.jpg" alt="">
               <span class="category">UX Teacher</span>
               <h4>Sophia Rose</h4>
               <ul class="social-icons">
@@ -404,7 +431,8 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-member">
             <div class="main-content">
-              <img src="assets/images/member-02.jpg" alt="">
+              <img src="
+              user/assets/images/member-02.jpg" alt="">
               <span class="category">Graphic Teacher</span>
               <h4>Cindy Walker</h4>
               <ul class="social-icons">
@@ -418,7 +446,8 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-member">
             <div class="main-content">
-              <img src="assets/images/member-03.jpg" alt="">
+              <img src="
+              user/assets/images/member-03.jpg" alt="">
               <span class="category">Full Stack Master</span>
               <h4>David Hutson</h4>
               <ul class="social-icons">
@@ -432,7 +461,8 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-member">
             <div class="main-content">
-              <img src="assets/images/member-04.jpg" alt="">
+              <img src="
+              user/assets/images/member-04.jpg" alt="">
               <span class="category">Digital Animator</span>
               <h4>Stella Blair</h4>
               <ul class="social-icons">
@@ -453,9 +483,10 @@
         <div class="col-lg-7">
           <div class="owl-carousel owl-testimonials">
             <div class="item">
-              <p>“Please tell your friends or collegues about TemplateMo website. Anyone can access the website to download free templates. Thank you for visiting.”</p>
+              <p>“Please tell your friends or collegues about Mo website. Anyone can access the website to download free s. Thank you for visiting.”</p>
               <div class="author">
-                <img src="assets/images/testimonial-author.jpg" alt="">
+                <img src="
+                user/assets/images/testimonial-author.jpg" alt="">
                 <span class="category">Full Stack Master</span>
                 <h4>Claude David</h4>
               </div>
@@ -463,15 +494,17 @@
             <div class="item">
               <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravid.”</p>
               <div class="author">
-                <img src="assets/images/testimonial-author.jpg" alt="">
+                <img src="
+                user/assets/images/testimonial-author.jpg" alt="">
                 <span class="category">UI Expert</span>
                 <h4>Thomas Jefferson</h4>
               </div>
             </div>
             <div class="item">
-              <p>“Scholar is free website template provided by TemplateMo for educational related websites. This CSS layout is based on Bootstrap v5.3.0 framework.”</p>
+              <p>“Scholar is free website  provided by Mo for educational related websites. This CSS layout is based on Bootstrap v5.3.0 framework.”</p>
               <div class="author">
-                <img src="assets/images/testimonial-author.jpg" alt="">
+                <img src="
+                user/assets/images/testimonial-author.jpg" alt="">
                 <span class="category">Digital Animator</span>
                 <h4>Stella Blair</h4>
               </div>
@@ -482,7 +515,7 @@
           <div class="section-heading">
             <h6>TESTIMONIALS</h6>
             <h2>What they say about us?</h2>
-            <p>You can search free CSS templates on Google using different keywords such as templatemo portfolio, templatemo gallery, templatemo blue color, etc.</p>
+            <p>You can search free CSS s on Google using different keywords such as mo portfolio, mo gallery, mo blue color, etc.</p>
           </div>
         </div>
       </div>
@@ -503,7 +536,8 @@
             <div class="row">
               <div class="col-lg-3">
                 <div class="image">
-                  <img src="assets/images/event-01.jpg" alt="">
+                  <img src="
+                  user/assets/images/event-01.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-9">
@@ -535,7 +569,8 @@
             <div class="row">
               <div class="col-lg-3">
                 <div class="image">
-                  <img src="assets/images/event-02.jpg" alt="">
+                  <img src="
+                  user/assets/images/event-02.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-9">
@@ -567,7 +602,8 @@
             <div class="row">
               <div class="col-lg-3">
                 <div class="image">
-                  <img src="assets/images/event-03.jpg" alt="">
+                  <img src="
+                  user/assets/images/event-03.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-9">
@@ -605,7 +641,7 @@
           <div class="section-heading">
             <h6>Contact Us</h6>
             <h2>Feel free to contact us anytime</h2>
-            <p>Thank you for choosing our templates. We provide you best CSS templates at absolutely 100% free of charge. You may support us by sharing our website to your friends.</p>
+            <p>Thank you for choosing our s. We provide you best CSS s at absolutely 100% free of charge. You may support us by sharing our website to your friends.</p>
             <div class="special-offer">
               <span class="offer">off<br><em>50%</em></span>
               <h6>Valide: <em>24 April 2036</em></h6>
@@ -646,6 +682,28 @@
     </div>
   </div>
 
+  <footer>
+    <div class="container">
+      <div class="col-lg-12">
+        <p>Copyright © 2036 Scholar Organization. All rights reserved. &nbsp;&nbsp;&nbsp; Design: <a href="https://mo.com" rel="nofollow" target="_blank">Mo</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="
+  user/vendor/jquery/jquery.min.js"></script>
+  <script src="
+  user/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="
+  user/assets/js/isotope.min.js"></script>
+  <script src="
+  user/assets/js/owl-carousel.js"></script>
+  <script src="
+  user/assets/js/counter.js"></script>
+  <script src="
+  user/assets/js/custom.js"></script>
 
   </body>
 </html>
