@@ -118,7 +118,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/orange2.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Orange</h5>
@@ -157,7 +157,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/cobamie.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/vanillalatte.png') }}" width="175" height="250" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Vanilla Latte</h5>
