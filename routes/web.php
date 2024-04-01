@@ -3,6 +3,7 @@
 use App\Http\Controllers\BeverageController;
 use App\Http\Controllers\dashboardController;
 use App\Http\Controllers\Dimsum;
+use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\registerController;
 use App\Http\Controllers\MakananController;
@@ -12,6 +13,7 @@ Route::get('/', function () {
     return view('kerangka.master');
 });
 
+Route::get('/home', [HomeController::class, 'home'])->name('home');
 Route::get('/dashboard', [dashboardController::class, 'index']);
 
 Route::get('/login', [LoginController::class, 'index'])->name('login');
