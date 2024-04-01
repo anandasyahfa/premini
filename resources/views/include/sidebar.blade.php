@@ -48,6 +48,11 @@
             <i class="bi bi-collection-fill"></i>
             <span>MAKANAN</span>
         </a>
+
+        <a href="{{ route('dimsum')}}" class='sidebar-link'>
+            <i class="bi bi-collection-fill"></i>
+            <span>DIMSUM</span>
+        </a>
         {{-- <ul class="submenu ">
             <li class="submenu-item ">
                 <a href=""{{ route('index')}}">menu</a>
