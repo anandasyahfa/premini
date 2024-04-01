@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card" style="width: 21rem;">
-                        <img src="{{ asset('image/dimsum.png') }}" width="90" height="240" class="card-img-top"
+                        <img src="{{ asset('image/dimsum2.png') }}" width="90" height="240" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Siomay</h5>
@@ -51,7 +51,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-primary mb-3" style="width: 21rem;">
-                        <img src="{{ asset('image/udangkeju.png') }}" width="175" height="250" class="card-img-top"
+                        <img src="{{ asset('image/udangkeju2.png') }}" width="160" height="252" class="card-img-top"
                             alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Udang Keju</h5>
