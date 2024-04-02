@@ -9,5 +9,3 @@
 
 {{-- css login --}}
 <link rel="stylesheet" href="{{asset ('template/assets/css/pages/auth.css') }}">
-
-!

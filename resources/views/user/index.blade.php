@@ -66,7 +66,7 @@ https://mo.com/tm-586-scholar
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                       <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                      <li class="scroll-to-section"><a href="#services">Noodels</a></li>
+                      <li class="scroll-to-section"><a href="#services">Noodles</a></li>
                       <li class="scroll-to-section"><a href="#courses">Dimsum</a></li>
                       <li class="scroll-to-section"><a href="#team">Drink</a></li>
                       <!-- <li class="scroll-to-section"><a href="#events">Events</a></li> -->
@@ -145,8 +145,8 @@ https://mo.com/tm-586-scholar
         <div class="col-lg-4 col-md-6">
           <div class="service-item">
             <div class="icon">
-              <img src="
-              user/assets/images/service-01.png" alt="online degrees">
+              <img src=
+              {{ asset('image/miesuit.png') }} height="100" width="100" alt="online degrees">
             </div>
             <div class="main-content">
               <h4>Online Degrees</h4>
@@ -284,78 +284,91 @@ https://mo.com/tm-586-scholar
           <a href="#!" data-filter=".wordpress">Wordpress</a>
         </li>
       </ul>
+
+      
       <div class="row event_box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 design">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
                 user/assets/images/course-01.jpg" alt=""></a>
-              <span class="category">Webdesign</span>
+              <span class="category">Siomay</span>
               <span class="price"><h6><em>$</em>160</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Stella Blair</span>
+              <span class="author">Siomay</span>
               <h4>Learn Web Design</h4>
             </div>
           </div>
         </div>
+
+
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6  development">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
                 user/assets/images/course-02.jpg" alt=""></a>
-              <span class="category">Development</span>
+              <span class="category">Udang Rambutan</span>
               <span class="price"><h6><em>$</em>340</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Cindy Walker</span>
+              <span class="author">Udang Rambutan</span>
               <h4>Web Development Tips</h4>
             </div>
           </div>
         </div>
+
+
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 design wordpress">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
                 user/assets/images/course-03.jpg" alt=""></a>
-              <span class="category">Wordpress</span>
+              <span class="category">Udang Keju</span>
               <span class="price"><h6><em>$</em>640</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">David Hutson</span>
+              <span class="author">Udang Keju</span>
               <h4>Latest Web Trends</h4>
             </div>
           </div>
         </div>
+
+
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 development">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
                 user/assets/images/course-04.jpg" alt=""></a>
-              <span class="category">Development</span>
+              <span class="category">Lumpia Udang</span>
               <span class="price"><h6><em>$</em>450</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Stella Blair</span>
+              <span class="author">Lumpia Udang</span>
               <h4>Online Learning Steps</h4>
             </div>
           </div>
         </div>
+
+
         <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 wordpress development">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
                 user/assets/images/course-05.jpg" alt=""></a>
-              <span class="category">Wordpress</span>
+              <span class="category">Pangsit Goreng</span>
               <span class="price"><h6><em>$</em>320</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Sophia Rose</span>
+              <span class="author">Pangsit Goreng</span>
               <h4>Be a WordPress Master</h4>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 wordpress design">
+
+
+
+        {{-- <div class="col-lg-4 col-md-6 align-self-center mb-30 event_outer col-md-6 wordpress design">
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="
@@ -368,7 +381,9 @@ https://mo.com/tm-586-scholar
               <h4>Full Stack Developer</h4>
             </div>
           </div>
-        </div>
+        </div> --}}
+
+
       </div>
     </div>
   </section>
